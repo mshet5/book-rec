@@ -1,1 +1,1 @@
-# book-rec
+# Photoshop with Python
